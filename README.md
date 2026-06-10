@@ -22,7 +22,7 @@ I use this profile to document my progress, share practical projects and improve
 
 ### IDEs
 
-[![IDEs](https://skillicons.dev/icons?i=vscode,idea,pycharm)](https://skillicons.dev)
+[![IDEs](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
 
 ## Currently Learning
 

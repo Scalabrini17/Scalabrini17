@@ -18,7 +18,7 @@ I use this profile to document my progress, share practical projects and improve
 
 ### Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ### IDEs
 

@@ -26,7 +26,7 @@ I use this profile to document my progress, share practical projects and improve
 
 ## Currently Learning
 
-[![Currently Learning](https://skillicons.dev/icons?i=java,docker,fastapi)](https://skillicons.dev)
+[![Currently Learning](https://skillicons.dev/icons?i=java,fastapi)](https://skillicons.dev)
 
 - Building and consuming REST APIs
 - Docker fundamentals and containerized applications

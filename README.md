@@ -4,7 +4,7 @@
 
 I am a Systems Analysis and Development student and an IT support professional focused on backend development.
 
-I use this profile to document my progress, share practical projects and improve my skills in software development. My main focus is building applications with Python and Django while expanding my knowledge of Java, REST APIs and containerized environments.
+I use this profile to document my progress, share practical projects and improve my skills in software development. My main focus is building applications with Python and Django while expanding my knowledge of Java and REST APIs. <!--containerized environments.-->
 
 ## Technologies
 

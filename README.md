@@ -10,7 +10,7 @@ I use this profile to document my progress, share practical projects and improve
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=py,java,js)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,java)](https://skillicons.dev)
 
 ### Frameworks and Databases
 

@@ -14,7 +14,7 @@ I use this profile to document my progress, share practical projects and improve
 
 ### Frameworks and Databases
 
-[![Frameworks and Databases](https://skillicons.dev/icons?i=django,postgres,html,css)](https://skillicons.dev)
+[![Frameworks and Databases](https://skillicons.dev/icons?i=django,postgres)](https://skillicons.dev)
 
 ### Tools
 

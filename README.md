@@ -35,7 +35,7 @@ I use this profile to document my progress, share practical projects and improve
 
 ## Environment
 
-[![Environment](https://skillicons.dev/icons?i=linux,bash,mint)](https://skillicons.dev)
+[![Environment](https://skillicons.dev/icons?i=linux,mint)](https://skillicons.dev)
 
 <!--## Featured Projects
 

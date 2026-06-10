@@ -37,7 +37,7 @@ I use this profile to document my progress, share practical projects and improve
 
 [![Environment](https://skillicons.dev/icons?i=linux,bash)](https://skillicons.dev)
 
-## Featured Projects
+<!--## Featured Projects
 
 ### [OAuth 2.0 Authentication Platform](https://github.com/Scalabrini17/tech-OAuth2.0)
 
@@ -53,7 +53,7 @@ Contact management application developed in Java to practice programming fundame
 
 ### [Java Exercises](https://github.com/Scalabrini17/Exercises-Java)
 
-Repository used to organize Java exercises, coursework and college assignments.
+Repository used to organize Java exercises, coursework and college assignments.-->
 
 ## Contact
 
